@@ -13,7 +13,7 @@ redirect_from:
 {: refdef}
 
 I am a senior postdoctoral research scientist at the University of Oxford.
-I am based in the [Big Data Institute](https://www.bdi.ox.ac.uk) and am a member of the [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk) group in the Department of Statistics.
+I am based in the [Big Data Institute](https://www.bdi.ox.ac.uk) with Gil McVean and am a member of the [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk) group in the Department of Statistics.
 I received my PhD from the University of British Columbia under the supervision of [Sohrab Shah](http://shahlab.ca).
 
 # Research
