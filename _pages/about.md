@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {:refdef: style="text-align: center;"}
-![Cancer evolution](/images/ith.png){:class="img-responsive" .center-image}
+![Cancer evolution]({{ site.url }}/assets/images/ith.png){:class="img-responsive" .center-image}
 {: refdef}
 
 I am a senior postdoctoral research scientist at the University of Oxford.
