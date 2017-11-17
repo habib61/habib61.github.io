@@ -29,7 +29,7 @@ These two themes support the ultimate goal of my research which is to understand
 - [PyClone: Statistical Inference of Clonal Population Structure in Cancer](http://dx.doi.org/10.1038/nmeth.2883), Nature Methods 2014
 - [Particle Gibbs Split-Merge Sampling for Bayesian Inference in Mixture Models](http://jmlr.org/papers/v18/15-397.html), Journal of Machine Learning Research 2017
 - [Clonal Genotype and Population Structure Inference From Single-Cell Tumor Sequencing](https://doi.org/10.1038/nmeth.3867), Nature Methods 2016
-- [Divergent Clonal Selection Dominates Medulloblastoma at Recurrence](http://dx.doi.org/10.1038/nature16478), Nature Genetics 2016
+- [Divergent Modes of Clonal Spread and Intraperitoneal Mixing in High-Grade Serous Ovarian Cancer](http://dx.doi.org/10.1038/ng.3573), Nature Genetics 2016
 - [The Clonal and Mutational Evolution Spectrum of Primary Triple-Negative Breast Cancers](https://dx.doi.org/10.1038/nature10933), Nature 2012
 
 # Software
