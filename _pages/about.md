@@ -7,11 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-{:refdef: style="text-align: center;"}
-![Cancer evolution]({{ site.url }}/assets/images/ith.png){:class="img-responsive" .center-image}
-{: refdef}
-
 I am postdoctoral research scientist with joint affiliations to [medical research council](https://www.har.mrc.ac.uk/) (MRC) at Harwell and university of [oxford statistic department](https://www.stats.ox.ac.uk/). I obtained my Ph.D. in statistic from university of Warwick under the supervision of [Prof. Tom Nichols](https://www.bdi.ox.ac.uk/Team/t-e-nichols). My thesis was on developing statistical methods for genetic analysis of high-dimensional neuroimaging data. 
 
 
