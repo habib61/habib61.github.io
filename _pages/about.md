@@ -12,25 +12,18 @@ redirect_from:
 ![Cancer evolution]({{ site.url }}/assets/images/ith.png){:class="img-responsive" .center-image}
 {: refdef}
 
-I am a senior postdoctoral research scientist at the University of Oxford.
-I am based in the [Big Data Institute](https://www.bdi.ox.ac.uk) with Gil McVean and am a member of the [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk) group in the Department of Statistics.
-I received my PhD from the University of British Columbia under the supervision of [Sohrab Shah](http://shahlab.ca).
+I am postdoctoral research scientist with joint affiliations to [medical research council](https://www.har.mrc.ac.uk/) (MRC) at Harwell and university of [oxford statistic department](https://www.stats.ox.ac.uk/). I obtained my Ph.D. in statistic from university of Warwick under the supervision of [Prof. Tom Nichols](https://www.bdi.ox.ac.uk/Team/t-e-nichols). My thesis was on developing statistical methods for genetic analysis of high-dimensional neuroimaging data. 
+
+
 
 # Research
+I am interested in developing and applying computational statistic and machine learning methods for analysing heterogeneous big datasets that contain different data modalities. My research is primarily focused on developing multivariate statistical methods to enhance interpretation of data from the International Mouse Phenotyping Consortium (IMPC). I am also working on developing modelling methods for brain imaging data to predict different health outcomes from imaging and non-imaging while controlling for individual differences in environmental and genomic data using the UKBiobank. 
 
-My research is primarily focused on the development and application of statistical and machine learning methods for analysing cancer omics data.
-The methods I develop leverage probabilistic graphical models and non-parametric Bayesian methods to extract biologically interpretable quantities from complex datasets.
-I am also interested in developing computationally efficient inference algorithms to fit these models.
-I am particularly interested in variational and sequential Monte Carlo methods.
-These two themes support the ultimate goal of my research which is to understand evolutionary cancer biology.
 
 # Selected papers
 
-- [PyClone: Statistical Inference of Clonal Population Structure in Cancer](http://dx.doi.org/10.1038/nmeth.2883), Nature Methods 2014
-- [Particle Gibbs Split-Merge Sampling for Bayesian Inference in Mixture Models](http://jmlr.org/papers/v18/15-397.html), Journal of Machine Learning Research 2017
-- [Clonal Genotype and Population Structure Inference From Single-Cell Tumor Sequencing](https://doi.org/10.1038/nmeth.3867), Nature Methods 2016
-- [Divergent Modes of Clonal Spread and Intraperitoneal Mixing in High-Grade Serous Ovarian Cancer](http://dx.doi.org/10.1038/ng.3573), Nature Genetics 2016
-- [The Clonal and Mutational Evolution Spectrum of Primary Triple-Negative Breast Cancers](https://dx.doi.org/10.1038/nature10933), Nature 2012
+- [Fast and powerful heritability inference for family-based neuroimaging studies](https://doi.org/10.1016/j.neuroimage.2015.03.005), Neuroimage 2015
+- [Fast and Powerful Genome Wide Association Analysis of Dense Genetic Data with High Dimensional Imaging Phenotypes](https://doi.org/10.1101/179150)
 
 # Software
 
