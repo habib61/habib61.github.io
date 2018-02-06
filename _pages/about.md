@@ -22,8 +22,8 @@ I am interested in developing and applying computational statistic and machine l
 
 # Software
 
-- [PyClone](https://bitbucket.org/aroth85/pyclone/wiki/Home) - Software for inferring clonal population structure from bulk genomics sequencing.
+- NINGA: Software for voxel-wise genetic analysis of Neuroimaging data including heritability and GWAS.
 
-- [SCG](https://bitbucket.org/aroth85/scg/wiki/Home) - Software for inferring clonal population structure from noisy single cell sequencing.
+#- [SCG](https://bitbucket.org/aroth85/scg/wiki/Home) - Software for inferring clonal population structure from noisy single #cell sequencing.
 
-- [PGSM](https://github.com/aroth85/pgsm) - Implementation of the efficient particle Gibbs split merge algorithm for inference in Dirichlet process mixture models.
+#- [PGSM](https://github.com/aroth85/pgsm) - Implementation of the efficient particle Gibbs split merge algorithm for #inference in Dirichlet process mixture models.
