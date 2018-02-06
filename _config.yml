@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Roth"
+title                    : "Habib Ganjgahi"
 title_separator          : "-"
-name                     : &name "Andrew Roth"
-description              : &description "Bioinformatics PhD"
+name                     : &name "Habib Ganjgahi"
+description              : &description "statistics PhD"
 url                      : https://aroth85.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aroth85/aroth85.github.io"
+repository               : "habib61/habib61.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,19 +80,19 @@ analytics:
 author:
   name             : "Andrew Roth"
   avatar           : "profile.png"
-  bio              : "Bioinformatics PhD"
+  bio              : "Statistic PhD"
   location         : "Oxford, UK"
   employer         : "University of Oxford"
-  googlescholar    : "https://scholar.google.com/citations?user=5hPCABoAAAAJ&hl=en"
-  email            :  "andrew.roth@bdi.ox.ac.uk"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=kBxjaFIAAAAJ&hl=en"
+  email            :  "habib.ganjgahi@stats.ox.ac.uk"
   uri              :
-  bitbucket        : "aroth85"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aroth85"
+  github           : "habib61"
   google_plus      :
   keybase          :
   instagram        :
